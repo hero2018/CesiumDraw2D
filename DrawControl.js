@@ -1,6 +1,6 @@
 define([
     'Cesium',
-    '../Control',
+    './Control',
     './drawelement/CancelDraw',
     './drawelement/entity/BillboardDraw',
     './drawelement/entity/PointDraw',
