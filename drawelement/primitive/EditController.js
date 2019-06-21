@@ -5,8 +5,6 @@ define([
 
     /**
      * 元素编辑管理类
-     * bug:修改完后，修改billboard不能自动消失
-     * 在clearEditEntity中setEdit(false)不执行？？？？？
      * @param {viewer} viewer 
      */
     let editController = function (viewer) {
