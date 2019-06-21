@@ -213,7 +213,6 @@ define([
         this._clearEditOptions();
     }
 
-
     /**
      * 移动中心点
      */
